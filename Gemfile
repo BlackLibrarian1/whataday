@@ -1,3 +1,4 @@
+
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
@@ -8,7 +9,6 @@ gem 'webrick'
 gem 'logger'
 gem 'base64'
 gem 'ostruct'
-gem "kramdown-parser-gfm"
 
 # needed for Rake tasks
 gem 'rake'
